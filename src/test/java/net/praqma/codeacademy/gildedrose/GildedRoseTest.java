@@ -1,4 +1,4 @@
-/** package net.praqma.codeacademy.gildedrose;
+package net.praqma.codeacademy.gildedrose;
 
 import static org.junit.Assert.*;
 
@@ -15,4 +15,3 @@ public class GildedRoseTest {
     }
 
 }
-**/
